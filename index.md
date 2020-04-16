@@ -2,7 +2,7 @@
 
 ## Week 0 (April 2020)
 
-[Here](files/interesting_examples.html) is my 5 interesting R examples
+[Here](files/interesting_examples.html) is my 5 interesting R examples.
 
 ## Welcome to GitHub Pages
 
