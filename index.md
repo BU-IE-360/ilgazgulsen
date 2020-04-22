@@ -7,6 +7,7 @@
 ## Week 1 (April 2020)
 
 [Here](files/hw1_report.html) is my Homework 1 report.
+
 [Here](files/hw1.R) is my R code for this Homework
 
 ## Welcome to GitHub Pages
