@@ -16,6 +16,12 @@
 
 [Here](files/hw2.R) is my R code for this Homework
 
+## Week 3 (June 2020)
+
+[Here]("files/hw 4-5.html") is my Homework 4-5 report.
+
+[Here](files/hw4-5.R) is my R code for this Homework
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BU-IE-360/ilgazgulsen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
